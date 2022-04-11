@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/icons" >
+        <file alias="accept" >Images/accept.png</file>
+        <file alias="add" >Images/add.png</file>
+        <file alias="delete" >Images/cross.png</file>
+        <file alias="cancel" >Images/delete.png</file>
+        <file alias="save" >Images/disk.png</file>
+        <file alias="home" >Images/house.png</file>
+        <file alias="edit" >Images/pencil.png</file>
+        <file alias="load" >Images/page_white_get.png</file>
+        <file alias="help" >Images/help.png</file>
+        <file alias="logo" >Images/gambit_logo.png</file>
+        <file alias="open" >Images/folder.png</file>
+        <file alias="new" >Images/page_2.png</file>
+        <file alias="view" >Images/image_2.png</file>
+        <file alias="tool" >Images/cog.png</file>
+        <file alias="background" >Images/Vector - Business Cards Design 2-30 by DragonArt.png</file>
+        <file alias="print" >Images/printer.png</file>
+        <file alias="play" >Images/control_play.png</file>
+        <file alias="web" >Images/world.png</file>
+        <file alias="back" >Images/arrow_left.png</file>
+        <file alias="refresh" >Images/arrow_redo.png</file>
+        <file alias="forward" >Images/arrow_right.png</file>
+        <file alias="filter" >Images/funnel.png</file>
+        <file alias="colors" >Images/control_wheel.png</file>
+        <file alias="info" >Images/exclamation.png</file>
+    </qresource>
+</RCC>

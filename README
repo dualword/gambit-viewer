@@ -1,0 +1,46 @@
+README
+-------------------------------------------------
+Gambit v. 0.4.145
+(c) 2009 Derek Barnett
+Marth Lab, Dept. of Biology, Boston College
+-------------------------------------------------
+
+TABLE OF CONTENTS
+I.   INTRODUCTION
+II.  DOCUMENTATION
+III. CONTACT INFO
+IV.  REPORTING BUGS
+
+Project Website: http://code.google.com/p/gambit-viewer
+
+I. INTRODUCTION
+Gambit is a new cross-platform GUI (graphical user interface) application for sequence visualization and analysis.  
+
+Our software takes advantage of the indexing features of the (fairly) recently standardized BAM sequence alignment format that allows rapid access to genomic data, with minimal startup time and re-rendering delay.  Gambit also supports a variety of annotation formats (BED, GFF, GFF3, VCF) “out-of-the-box” for displaying gene/region annotations as well as SNP entries. 
+
+Gambit is currently “plugin-aware” with respect to format support, meaning support for new formats can be added without needing to modify/upgrade the main program itself.
+
+Bioinformatics analysis of sequence data currently requires specialized expertise and is rapidly becoming a bottleneck. Analysis needs of smaller biology laboratories can be served if the visualization software integrates essential analytical functionality. Such functionality includes PCR primer design to support candidate SNP validation experiments; connecting to common databases; exporting data from specific regions of the chromosome for detailed and focused analysis. 
+
+Gambit  will soon be “plugin-aware” with respect to analytical tools to provide such integrated functions.  One benefit from implementing the analysis system via plugins is that anyone with programming skills can readily include their own custom features: support for new file formats, additional metrics, or even custom views.  Another benefit is that users need not add every plugin.  You will be able customize Gambit to be as lightweight or fully-functional as your needs require.
+
+
+II. DOCUMENTATION
+For full documentation on this beta release, please consult the documentation PDF: GambitDocumentation_v0.4.145.pdf.
+If you don't see this file, you can download it from the project website, listed above.
+
+III. CONTACT INFO
+Feel free to contact me if you have any comments, suggestions, questions, complaints, whatever.
+
+Derek Barnett
+Marth Laboratory
+Boston College – Higgins Hall
+140 Commonwealth Ave
+Chestnut Hill, MA 02467
+
+Email: barnetde@bc.edu
+Lab Website: http://bioinformatics.bc.edu/marthlab/Main_Page
+
+IV. REPORTING BUGS
+If you do happen to notice a bug, please submit to the bug tracker system on the project website: 
+http://code.google.com/p/gambit-viewer/issues/list
